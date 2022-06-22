@@ -19,7 +19,7 @@ mariadb==1.0.8
 MarkupSafe==2.0.1
 mysql-client==0.0.1
 mysqlclient==2.1.0
-numpy==1.21.4
+numpy==1.22.0
 opencv-python==4.5.5.62
 openpyxl==3.0.9
 pipenv==2022.1.8
